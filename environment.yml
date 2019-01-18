@@ -2,6 +2,7 @@ name: ANLY520
 channels:
   - javascript
   - r
+  - pyviz/label/dev
 dependencies:
   - r
   - r-essentials

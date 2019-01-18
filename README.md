@@ -11,10 +11,9 @@ We will use airline industry tweets for our analysis. Alternatively, we may use 
 ## Project Setup
 
 ```{bash}
-# Install miniconda, nim, and R
+# Install miniconda, and R
 brew tap homebrew/science # MacOS
 brew install Caskroom/cask/xquartz # MacOS
-brew install r # MacOS
 brew install miniconda R # MacOS
 
 # Go to ANLY520_US_AirlineTwitterSentimentAnalysis

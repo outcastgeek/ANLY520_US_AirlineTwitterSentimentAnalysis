@@ -8,6 +8,12 @@ The primary objective of our project is to apply sentiment analysis to the US ai
 
 We will use airline industry tweets for our analysis. Alternatively, we may use twitter datasets sourced from Kaggle.
 
+---
+
+## Launch Project
+
+[![Launch U.S.AirlineTwitterSentimentAnalysis Binder Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/outcastgeek/ANLY520_US_AirlineTwitterSentimentAnalysis.git/master?filepath=U.S.AirlineTwitterSentimentAnalysis.ipynb)
+
 ## Project Setup
 
 ```{bash}

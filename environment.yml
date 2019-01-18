@@ -4,9 +4,6 @@ channels:
   - r
   - pyviz/label/dev
 dependencies:
-  - r
-  - r-essentials
-  - r-base
   - nodejs
   - pandas
   - nltk

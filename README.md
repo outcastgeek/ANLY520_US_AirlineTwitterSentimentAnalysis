@@ -12,6 +12,8 @@ We will use airline industry tweets for our analysis. Alternatively, we may use 
 
 ## Launch Project
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/outcastgeek/ANLY520_US_AirlineTwitterSentimentAnalysis.git/master?urlpath=lab/tree/U.S.AirlineTwitterSentimentAnalysis.ipynb)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/outcastgeek/ANLY520_US_AirlineTwitterSentimentAnalysis.git/master?filepath=U.S.AirlineTwitterSentimentAnalysis.ipynb)
 
 ## Project Setup

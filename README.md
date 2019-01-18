@@ -14,7 +14,13 @@ We will use airline industry tweets for our analysis. Alternatively, we may use 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/outcastgeek/ANLY520_US_AirlineTwitterSentimentAnalysis.git/master?urlpath=lab/tree/U.S.AirlineTwitterSentimentAnalysis.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/outcastgeek/ANLY520_US_AirlineTwitterSentimentAnalysis.git/master?filepath=U.S.AirlineTwitterSentimentAnalysis.ipynb)
+```{bash}
+# Now start a new Launcher to open the terminal
+# Set your github email
+git config user.email your_email_for_github@yourmail.com
+# Set your github username
+git config user.name your_github_username
+```
 
 ## Project Setup
 

@@ -1,0 +1,13 @@
+name: ANLY520
+channels:
+  - javascript
+  - r
+dependencies:
+  - r
+  - r-essentials
+  - r-base
+  - nodejs
+  - pandas
+  - nltk
+  - pyviz
+  

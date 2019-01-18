@@ -1,11 +1,13 @@
 name: ANLY520
 channels:
   - javascript
-  - r
+  - conda-forge
   - pyviz/label/dev
 dependencies:
   - nodejs
+  - jupyterlab
   - pandas
   - nltk
   - pyviz
-  
+  - pip:
+    - jupyterlab_latex

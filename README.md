@@ -38,4 +38,7 @@ conda env create -f environment.yml
 
 # Activate it
 source activate ANLY520 # for UNIX like shells
+
+# Start Jupyter Lab
+jupyter lab
 ```

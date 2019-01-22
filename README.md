@@ -42,3 +42,6 @@ source activate ANLY520 # for UNIX like shells
 # Start Jupyter Lab
 jupyter lab
 ```
+## Miscellaneous
+
+[Pandas Cookbook on Binder](https://mybinder.org/v2/gh/jvns/pandas-cookbook/master)

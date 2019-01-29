@@ -8,5 +8,6 @@ dependencies:
   - nltk
   - pyviz
   - rpy2
+  - wordcloud
   - pip:
     - jupyterlab_latex

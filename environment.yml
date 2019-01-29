@@ -7,6 +7,10 @@ dependencies:
   - pandas
   - nltk
   - pyviz
+  - r
+  - mro-base #r-base
+  - r-essentials
+  - r-irkernel
   - rpy2
   - wordcloud
   - pip:

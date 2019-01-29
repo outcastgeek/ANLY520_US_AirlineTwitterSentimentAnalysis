@@ -44,12 +44,12 @@ jupyter lab
 ```
 ## Retrieve Tweets
 
-[with RTweets (18,000 ?)](https://rtweet.info/)
-[Intro to rtweet: Collecting Twitter Data](https://cran.r-project.org/web/packages/rtweet/vignettes/intro.html)
-[with deprecated twitteR (3,200 ?)](https://github.com/geoffjentry/twitteR)
+* [with RTweets (18,000 ?)](https://rtweet.info/)
+* [Intro to rtweet: Collecting Twitter Data](https://cran.r-project.org/web/packages/rtweet/vignettes/intro.html)
+* [with deprecated twitteR (3,200 ?)](https://github.com/geoffjentry/twitteR)
 
 ## Miscellaneous
 
-[Pandas Cookbook on Binder](https://mybinder.org/v2/gh/jvns/pandas-cookbook/master)
-[Common Crawl](http://commoncrawl.org/)
+* [Pandas Cookbook on Binder](https://mybinder.org/v2/gh/jvns/pandas-cookbook/master)
+* [Common Crawl](http://commoncrawl.org/)
 

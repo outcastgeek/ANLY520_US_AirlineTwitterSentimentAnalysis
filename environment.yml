@@ -7,5 +7,6 @@ dependencies:
   - pandas
   - nltk
   - pyviz
+  - rpy2
   - pip:
     - jupyterlab_latex

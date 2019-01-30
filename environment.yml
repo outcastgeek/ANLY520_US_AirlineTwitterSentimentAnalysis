@@ -2,6 +2,7 @@ name: ANLY520
 channels:
   - conda-forge
   - pyviz/label/dev
+  - r
 dependencies:
   - jupyterlab
   - pandas

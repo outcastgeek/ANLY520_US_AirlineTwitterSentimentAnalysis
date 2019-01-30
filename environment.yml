@@ -12,6 +12,7 @@ dependencies:
   - r-essentials
   - r-irkernel
   - r-tidyverse
+  - r-reticulate
   - r-rtweet
   - rpy2
   - wordcloud

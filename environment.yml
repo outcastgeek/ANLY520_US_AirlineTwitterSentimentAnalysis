@@ -8,7 +8,7 @@ dependencies:
   - nltk
   - pyviz
   - r
-  - mro-base #r-base
+  - r-base #mro-base
   - r-essentials
   - r-irkernel
   - r-tidyverse

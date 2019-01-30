@@ -5,6 +5,8 @@ channels:
   - r
 dependencies:
   - jupyterlab
+  - libgfortran
+  - simplegeneric
   - pandas
   - nltk
   - pyviz

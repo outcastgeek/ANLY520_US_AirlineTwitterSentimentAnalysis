@@ -11,6 +11,8 @@ dependencies:
   - mro-base #r-base
   - r-essentials
   - r-irkernel
+  - r-tidyverse
+  - r-rtweet
   - rpy2
   - wordcloud
   - pip:

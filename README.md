@@ -12,7 +12,13 @@ We will use airline industry tweets for our analysis. Alternatively, we may use 
 
 ## Launch Project
 
+You can open the project in Binder, which Turns a Git repo into interactive notebook(s):
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/outcastgeek/ANLY520_US_AirlineTwitterSentimentAnalysis.git/master?urlpath=lab/tree/U.S.AirlineTwitterSentimentAnalysis.ipynb)
+
+You can open the project in Gitpod, a free online dev evironment for GitHub:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/outcastgeek/ANLY520_US_AirlineTwitterSentimentAnalysis)
 
 ```{bash}
 # Now start a new Launcher to open the terminal

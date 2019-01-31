@@ -3,5 +3,4 @@ image:
   file: Dockerfile
 tasks:
   - command: >
-        source activate ANLY520
-        jupyter lab
+        source activate ANLY520; jupyter lab

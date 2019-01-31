@@ -1,10 +1,12 @@
 #!/bin/bash
 
+BASEDIR=$(pwd)
+
 # Conda Update All
 conda update --all -y
 
 # Install Conda Libraries
-conda env create -f environment.yml
+conda env create -f $BASEDIR/environment.yml
 
 # Swith to ANLY520 Conda Environment
 source activate ANLY520

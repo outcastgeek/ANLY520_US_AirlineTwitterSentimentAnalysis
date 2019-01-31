@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Conda Update All
-conda update --all -y
-
 # Activate ANLY520 Conda Environment
 source activate ANLY520
 

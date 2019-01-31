@@ -3,7 +3,9 @@ channels:
   - conda-forge
   - pyviz/label/dev
   - r
+  - javascript
 dependencies:
+  - nodejs
   - jupyterlab
   - libgfortran
   - simplegeneric

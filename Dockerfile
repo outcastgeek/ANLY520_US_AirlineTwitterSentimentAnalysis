@@ -14,5 +14,8 @@ RUN apt-get update \
 ADD environment.yml /tmp/environment.yml
 RUN conda env create -f /tmp/environment.yml
 
+# Conda Update All
+RUN conda update --all -y
+
 # Cleanup
 RUN rm -rf /tmp/*

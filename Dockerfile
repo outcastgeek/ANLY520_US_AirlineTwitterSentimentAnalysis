@@ -22,3 +22,5 @@ RUN /tmp/postBuild
 
 # Cleanup
 RUN rm -rf /tmp/*
+
+EXPOSE 8888

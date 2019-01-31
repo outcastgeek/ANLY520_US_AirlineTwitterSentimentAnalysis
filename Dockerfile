@@ -17,7 +17,7 @@ RUN conda env create -f /tmp/environment.yml
 
 
 ADD postBuild /tmp/postBuild
-RUN /tmp/postBuild
+#RUN /tmp/postBuild
 
 # Cleanup
 RUN rm -rf /tmp/*

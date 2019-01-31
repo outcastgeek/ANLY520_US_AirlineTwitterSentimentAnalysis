@@ -12,7 +12,6 @@ RUN apt-get update \
     && apt-get clean && rm -rf /var/cache/apt/* && rm -rf /var/lib/apt/lists/*
 
 ADD environment.yml /tmp/environment.yml
-RUN /tmp/environment.yml
 
 ADD postBuild /tmp/postBuild
 RUN /tmp/postBuild

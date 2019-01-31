@@ -3,4 +3,5 @@ image:
   file: Dockerfile
 tasks:
   - command: >
+        ./postBuild
         jupyter lab

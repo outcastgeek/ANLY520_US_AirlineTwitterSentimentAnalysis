@@ -59,4 +59,5 @@ jupyter lab
 * [Pandas Cookbook on Binder](https://mybinder.org/v2/gh/jvns/pandas-cookbook/master)
 * [Common Crawl](http://commoncrawl.org/)
 * [Interfacing R from a Python 3 Jupyter Notebook](https://www.linkedin.com/pulse/interfacing-r-from-python-3-jupyter-notebook-jared-stufft)
-
+* [A Wordcloud in Python](http://peekaboo-vision.blogspot.com/2012/11/a-wordcloud-in-python.html)
+* [A little word cloud generator in Python](https://github.com/amueller/word_cloud)

@@ -7,6 +7,7 @@ RUN apt-get update \
                           texlive-science \
                           texlive-latex-extra \
                           texlive-fonts-recommended \
+                          texlive-xetex \
                           dvipng \
                           ghostscript \
     && apt-get clean && rm -rf /var/cache/apt/* && rm -rf /var/lib/apt/lists/*

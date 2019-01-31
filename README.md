@@ -61,3 +61,5 @@ jupyter lab
 * [Interfacing R from a Python 3 Jupyter Notebook](https://www.linkedin.com/pulse/interfacing-r-from-python-3-jupyter-notebook-jared-stufft)
 * [A Wordcloud in Python](http://peekaboo-vision.blogspot.com/2012/11/a-wordcloud-in-python.html)
 * [A little word cloud generator in Python](https://github.com/amueller/word_cloud)
+* [SoS Polyglot Notebook](https://vatlab.github.io/sos-docs/)
+* [Example of using Python and R in a single notebook with SoS](https://github.com/binder-examples/jupyter-sos/blob/python-r/python-and-r.ipynb)

@@ -6,4 +6,4 @@ image:
   file: Dockerfile
 tasks:
   - command: >
-        source activate ANLY520; jupyter lab
+        source activate ANLY520; jupyter lab --no-browser --ip=0.0.0.0 --port=8888

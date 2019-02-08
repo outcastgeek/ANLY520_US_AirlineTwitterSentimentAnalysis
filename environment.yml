@@ -1,6 +1,5 @@
 name: ANLY520
 channels:
-  - QuantStack
   - conda-forge
   - pyviz/label/dev
   - r

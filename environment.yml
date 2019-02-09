@@ -5,9 +5,6 @@ channels:
   - r
   - javascript
 dependencies:
-  - xeus-cling
-  - xtensor
-  - xtensor-blas
   - nodejs
   - jupyterlab
   - libgfortran

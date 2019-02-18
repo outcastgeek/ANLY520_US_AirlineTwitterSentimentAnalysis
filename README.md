@@ -8,6 +8,10 @@ The primary objective of our project is to apply sentiment analysis to the US ai
 
 We will use airline industry tweets for our analysis. Alternatively, we may use twitter datasets sourced from Kaggle.
 
+## Report
+
+[Twitter Sentiment Analysis Report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/outcastgeek/ANLY520_US_AirlineTwitterSentimentAnalysis/master/U.S.AirlineTwitterSentimentAnalysis.html)
+
 ---
 
 ## Launch Project
